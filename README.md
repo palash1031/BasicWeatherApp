@@ -1,4 +1,4 @@
-**###Currency Exchange Rate Calculator###**
+**Currency Exchange Rate Calculator**
 
 A simple, responsive web application for converting currency rates in real time. Built with HTML, CSS, JavaScript, and Node.js, this app uses the ExchangeRate-API for fetching live exchange rates.
 Features
@@ -48,22 +48,22 @@ API Key Information
 
 How It Works
 
-    Select the Base Currency (e.g., USD).
-    Enter the amount to convert.
-    Select the Target Currency (e.g., EUR).
-    Click the Convert button to view the converted amount.
+-     Select the Base Currency (e.g., USD).
+-     Enter the amount to convert.
+-     Select the Target Currency (e.g., EUR).
+-     Click the Convert button to view the converted amount.
 
 Technologies Used
 
     Frontend:
-        HTML5
-        CSS3 (with modern gradients and animations)
-        JavaScript (fetch API for handling asynchronous requests)
+-         HTML5
+-         CSS3 (with modern gradients and animations)
+-         JavaScript (fetch API for handling asynchronous requests)
     Backend:
-        Node.js
-        Express.js
-        dotenv (for secure environment variable management)
-        node-fetch (for making API requests)
+-         Node.js
+-         Express.js
+-         dotenv (for secure environment variable management)
+-         node-fetch (for making API requests)
 
 License
 
