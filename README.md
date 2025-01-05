@@ -69,4 +69,4 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-You can copy and paste this directly into your README.md file. Let me know if you need any edits or additional details! 🚀
+You can copy and paste this directly into your README.md file. Let me know if you need any edits or additional details!
