@@ -10,7 +10,7 @@ Features
 
 **Setup Instructions**:
 
-1. Clone the Repository
+1. Clone the Repository:
 
 git clone https://github.com/yourusername/exchange-rate-calculator.git
 cd exchange-rate-calculator
