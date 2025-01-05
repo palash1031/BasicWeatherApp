@@ -1,14 +1,15 @@
-#Currency Exchange Rate Calculator
+**###Currency Exchange Rate Calculator###**
 
 A simple, responsive web application for converting currency rates in real time. Built with HTML, CSS, JavaScript, and Node.js, this app uses the ExchangeRate-API for fetching live exchange rates.
 Features
 
-    Convert currency amounts between multiple currencies.
-    Real-time exchange rate fetching.
-    User-friendly and sleek design.
-    Responsive layout for mobile and desktop.
+- Convert currency amounts between multiple currencies.
+- Real-time exchange rate fetching.
+- User-friendly and sleek design.
+- Responsive layout for mobile and desktop.
 
-Setup Instructions
+**Setup Instructions**:
+
 1. Clone the Repository
 
 git clone https://github.com/yourusername/exchange-rate-calculator.git
