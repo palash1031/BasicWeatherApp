@@ -1,7 +1,2 @@
-# BasicWeatherApp
-A simple weather app built with HTML, CSS, and JavaScript, fetching real-time weather data from the OpenWeatherMap API. It allows users to search for weather by city, toggle between Celsius and Fahrenheit, and switch between light and dark modes for a customizable experience.
-
-- Using basic Front End Languages
-    - HTML
-    - CSS
-    - JavaScript
+# CurrencyExchange
+A simple, responsive Currency Exchange Rate Calculator built with HTML, CSS, and JavaScript. Features real-time conversion and a sleek, modern design.
